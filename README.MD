@@ -1,7 +1,7 @@
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-37/)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-38/)
 # Publish-Subscribe System
-A simple version of a Publish-Subscribe (Pub/Sub) system, similar to Apache Kafka. Pub/Sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic. Pub/sub messaging can be used to enable event-driven architectures, or to decouple applications in order to increase performance, reliability and scalabilit<br>
+A simple version of a Publish-Subscribe (Pub/Sub) system, similar to Apache Kafka. Pub/Sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic. Pub/sub messaging can be used to enable event-driven architectures, or to decouple applications in order to increase performance, reliability and scalability<br>
 ![flow](flow.PNG)
 ## Requirments
 
