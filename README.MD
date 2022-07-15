@@ -61,8 +61,6 @@ optional arguments:
 
     ├── README.md           <- The top-level README for developers.
     │
-    ├── Report.pdf          <- A short report about the project architecture
-    │
     ├── utils.py            <- Helper functions
     │
     ├── broker.py           <- The Broker connects the Publishers and the Subscribers together
